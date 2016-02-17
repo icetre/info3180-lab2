@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flask App
 ============
 
@@ -153,3 +154,6 @@ Lastly, add the following A records to your DNS management tool.
     75.101.163.44
     75.101.145.87
     174.129.212.2
+=======
+# info3180-lab2
+>>>>>>> 0f4308589d495915b32dbd68292323ac34fe41b7
